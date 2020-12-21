@@ -1,5 +1,6 @@
+[![DOI](https://zenodo.org/badge/310082029.svg)](https://zenodo.org/badge/latestdoi/310082029)
 # LAGOS_NETS 
-Code for the creation of LAGOS-US NETWORKS module. https://zenodo.org/badge/310082029.svg
+Code for the creation of LAGOS-US NETWORKS module. 
 
 This code accompanies the manuscript submitted for peer review: 
 
