@@ -1,6 +1,5 @@
 # LAGOS_NETS 
-https://zenodo.org/badge/310082029.svg
-Code for the creation of LAGOS-US NETWORKS module.
+Code for the creation of LAGOS-US NETWORKS module. https://zenodo.org/badge/310082029.svg
 
 This code accompanies the manuscript submitted for peer review: 
 
